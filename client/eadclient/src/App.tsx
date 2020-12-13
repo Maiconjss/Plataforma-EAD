@@ -1,11 +1,12 @@
 import React from 'react';
+import Login from './pages/Login/Login';
 
 
 function App() {
   return (
-    <div>
-      <h1>AGUARDANDO CONSTRUÇÃO</h1>
-    </div>
+    <>
+      <Login />
+    </>
   );
 }
 
